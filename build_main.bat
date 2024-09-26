@@ -1,0 +1,1 @@
+gcc -g src/main.c -o build/H/main -O3

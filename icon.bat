@@ -1,0 +1,1 @@
+windres src/data/rc.rc src/data/rc.o
